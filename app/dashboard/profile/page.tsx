@@ -1,4 +1,4 @@
 export default function profile()
 {
-    return <div>آههه</div>
+    return <div>profile</div>
 }

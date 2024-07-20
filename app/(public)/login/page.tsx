@@ -1,4 +1,6 @@
+import LoinForm from "./login-form";
+
 export default function login()
 {
-    return <div>Login</div>
+    return <LoinForm />
 }
